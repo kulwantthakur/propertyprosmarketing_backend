@@ -32,7 +32,7 @@ The backend also connects to a **MongoDB** database for storing and managing all
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chhrahul/propertyprosmarketing_backend.git
+   git clone https://github.com/kulwantthakur/propertyprosmarketing_backend.git
    ```
 2. Navigate to the project folder:
    ```bash
